@@ -1,14 +1,14 @@
 {
   "redirect" : {
 
-"JSON_POPUP_WAIT" : "Server Ready - v20j15",
+"JSON_POPUP_WAIT" : "wallpapers for you",
 
 "TOAST_NOTIF" : false,
 
 "MODE_NO_ADS" : false,
 "MODE_BACKUP_ADS" : true,
 
-"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : true,
 
 //     * mode pengaturan iklan
 //     * Mode ADMOB       Admob backup Unity Backup Startapp
@@ -20,11 +20,11 @@
 //     * Untuk Native akan terganti menjadi banner jika tanpa id 
 
 
-"PENGATURAN_IKLAN_BANNER" : "ADMOB",
-"PENGATURAN_IKLAN_INTER" : "ADMOB",
+"PENGATURAN_IKLAN_BANNER" : "APPLOVIN",
+"PENGATURAN_IKLAN_INTER" : "APPLOVIN",
 "PENGATURAN_IKLAN_NATIVE" : "ADMOB",
 
-"INTERS_COUNT_WEB" : 5,
+"INTERS_COUNT_WEB" : 1,
 
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
